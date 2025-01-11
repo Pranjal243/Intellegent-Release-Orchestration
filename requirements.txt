@@ -1,0 +1,8 @@
+flask
+SpeechRecognition
+gtts
+cohere
+serpapi
+transformers
+translatepy
+pyaudio
